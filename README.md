@@ -1,1 +1,2 @@
-# cpbw3
+# reveal
+Github pages: http://coursemdetw.github.io/reveal
